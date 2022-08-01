@@ -1,0 +1,14 @@
+public class role {
+    public static void main(String[] args) {
+        String role1= "superuser";
+        String role2= "admin";
+        String role3= "user";
+
+        if (role1 == "superuser") {
+            System.out.println("Hey superuser");}
+        else if (role2 == "admin"){
+            System.out.println("Hey admin");}
+        else {
+            System.out.println("Hey user");
+        }
+    }}
