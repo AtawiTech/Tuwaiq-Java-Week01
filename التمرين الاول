@@ -1,0 +1,9 @@
+public class name {
+    public static void main(String[] args) {
+        String firstName="Khalid";
+        String lastName="Alatawi";
+
+        String fullName=firstName+" "+lastName;
+        System.out.println(fullName);
+    }
+}
